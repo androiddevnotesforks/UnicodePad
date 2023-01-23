@@ -62,7 +62,7 @@ dependencies {
     implementation 'com.mobeta.android.dslv:library:0.9.0'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
 
-    playImplementation 'com.google.android.gms:play-services-ads-lite:21.4.0'
+    playImplementation 'com.google.android.gms:play-services-ads-lite:20.6.0'
 }
 repositories {
     mavenCentral()
